@@ -1,0 +1,5 @@
+<nav>
+  Welcome
+</nav>
+
+<slot/>
